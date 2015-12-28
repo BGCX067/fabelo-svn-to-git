@@ -1,0 +1,14 @@
+#summary Инструменты для работы.
+
+= Introduction =
+
+Add your content here.
+
+[Ru_Listo_de_rusaj_lumbildoj проба]
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages

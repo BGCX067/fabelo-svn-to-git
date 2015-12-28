@@ -1,0 +1,15 @@
+#summary Как принять участие в проекте.
+
+= Введение =
+
+Что нужно:
+
+ # Аккаунт на гугл.
+ # Программа-клиент для работы с сервером гугла.
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
